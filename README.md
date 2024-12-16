@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielmatosNogueira&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielmatosNogueira&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielmatosNogueira&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GabrielmatosNogueira&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
