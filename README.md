@@ -22,17 +22,16 @@ Estudante de Ciência da Computação com dedicação à resolução de problema
 
 Meu foco atual está na consolidação de uma base teórica e acadêmica robusta como alicerce para meus objetivos futuros.
 
-**Áreas de estudo em aprofundamento:**
-  1.) Estruturas de Dados Avançadas
-  2.) Cálculo Diferencial e Integral
-  3.) Geometria Analítica e Álgebra Linear
+1.) **Áreas de estudo em aprofundamento:**
+    - Estruturas de Dados Avançadas
+    - Cálculo Diferencial e Integral
+    - Geometria Analítica e Álgebra Linear
 
-**Objetivo de carreira:**
-  1.) Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área e construção de novas tecnólogias que possam auxiliar áreas como o mercado e a educação.
+2.) **Objetivo de carreira:** Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área e construção de novas tecnólogias que possam auxiliar áreas como o mercado e a educação.
 
-**Interesse em colaborações:**
-  1.) Projetos de iniciação científica e pesquisa acadêmica.
-  2.) Desenvolvimento de soluções computacionais com sólida fundamentação teórica.
+3.) **Interesse em colaborações:**
+    - Projetos de iniciação científica e pesquisa acadêmica.
+    - Desenvolvimento de soluções computacionais com sólida fundamentação teórica.
 
 ---
 
