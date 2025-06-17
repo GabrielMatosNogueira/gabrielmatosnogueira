@@ -1,14 +1,11 @@
-# Olá, eu sou o Gabriel Matos Nogueira 👋
+## Gabriel Matos Nogueira
+Graduando em Ciência da Computação pela Pontífica Universidade Católica de Minas Gerais
 
-## Graduando em Ciência da Computação
-
-Sou um estudante de Ciência da Computação apaixonado pela solução de problemas complexos. Acredito que com **trabalho duro**, **persistência** e uma abordagem focada em **pesquisa**, é possível transformar desafios em código e conhecimento.
-
-Tenho um interesse especial e foco de estudo nas áreas de **Segurança**, **Lógica Computacional** e **Algoritmos e Estruturas de Dados**.
+Estudante de Ciência da Computação com dedicação à resolução de problemas complexos, pesquisa acadêmica e estudo sólido na teoria computacional. Minha abordagem de estudo é pautada pela persistência e pela busca de conhecimento aprofundado, com especial interesse nas áreas de Segurança da Informação, Lógica Computacional e Algoritmos e Estruturas de Dados.
 
 ---
 
-### 💻 Habilidades e Tecnologias
+### Competências Técnicas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -21,35 +18,28 @@ Tenho um interesse especial e foco de estudo nas áreas de **Segurança**, **Ló
 
 ---
 
-### 🎯 Metas e Aprendizado Contínuo
+### Objetivos Acadêmicos e Profissionais
 
-Mesmo sem projetos públicos no momento, meu foco está totalmente voltado para a construção de uma base acadêmica e teórica sólida.
+Meu foco atual está na consolidação de uma base teórica e acadêmica robusta como alicerce para meus objetivos futuros.
 
-* 🌱 **Atualmente estou aprofundando meus conhecimentos em:**
+* **Áreas de estudo em aprofundamento:**
     * Estruturas de Dados Avançadas
     * Cálculo Diferencial e Integral
     * Geometria Analítica e Álgebra Linear
 
-* 🚀 **Meu principal objetivo é:**
-    * Aprimorar continuamente meu conhecimento computacional para realizar **mestrado na UFMG**.
+* **Objetivo de carreira:**
+    * Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área.
 
-* 🤝 **Busco colaborar em:**
-    * Projetos de pesquisa acadêmica
-    * Monitoria ou auxílio acadêmico
-    * Desenvolvimento de soluções digitais que apliquem uma base teórica robusta.
+* **Interesse em colaborações:**
+    * Projetos de iniciação científica e pesquisa acadêmica.
+    * Desenvolvimento de soluções digitais com sólida fundamentação teórica.
 
 ---
 
-### 🔗 Conecte-se comigo
+### Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/seu-usuario-aqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/GabrielMatosNogueira" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:gabrielmatosnogueiracompsci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
-
-<p align="center">
-  Fora da computação, gosto de caminhar, conversar com amigos e conhecer novas pessoas.
+  <a href="mailto:gabrielmatosnogueiracompsci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
