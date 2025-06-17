@@ -1,16 +1,55 @@
+# Olá, eu sou o Gabriel Matos Nogueira 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-nogueira-145478323) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28811120) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GabrielMatosNogueira) 
+## Graduando em Ciência da Computação
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Sou um estudante de Ciência da Computação apaixonado pela solução de problemas complexos. Acredito que com **trabalho duro**, **persistência** e uma abordagem focada em **pesquisa**, é possível transformar desafios em código e conhecimento.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabrielmatosNogueira&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielmatosNogueira&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+Tenho um interesse especial e foco de estudo nas áreas de **Segurança**, **Lógica Computacional** e **Algoritmos e Estruturas de Dados**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabrielmatosNogueira&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Habilidades e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 🎯 Metas e Aprendizado Contínuo
+
+Mesmo sem projetos públicos no momento, meu foco está totalmente voltado para a construção de uma base acadêmica e teórica sólida.
+
+* 🌱 **Atualmente estou aprofundando meus conhecimentos em:**
+    * Estruturas de Dados Avançadas
+    * Cálculo Diferencial e Integral
+    * Geometria Analítica e Álgebra Linear
+
+* 🚀 **Meu principal objetivo é:**
+    * Aprimorar continuamente meu conhecimento computacional para realizar um **mestrado na UFMG**.
+
+* 🤝 **Busco colaborar em:**
+    * Projetos de pesquisa acadêmica
+    * Monitoria ou auxílio acadêmico
+    * Desenvolvimento de soluções digitais que apliquem uma base teórica robusta.
+
+---
+
+### 🔗 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-usuario-aqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/GabrielMatosNogueira" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:gabrielmatosnogueiracompsci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  Fora da computação, gosto de caminhar, conversar com amigos e conhecer novas pessoas.
+</p>
