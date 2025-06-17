@@ -28,11 +28,11 @@ Meu foco atual está na consolidação de uma base teórica e acadêmica robusta
     * Geometria Analítica e Álgebra Linear
 
 * **Objetivo de carreira:**
-    * Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área.
+    * Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área e construção de novas tecnólogias que possam auxiliar áreas como o mercado e a educação.
 
 * **Interesse em colaborações:**
     * Projetos de iniciação científica e pesquisa acadêmica.
-    * Desenvolvimento de soluções digitais com sólida fundamentação teórica.
+    * Desenvolvimento de soluções computacionais com sólida fundamentação teórica.
 
 ---
 
