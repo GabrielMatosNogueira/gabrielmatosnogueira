@@ -31,7 +31,7 @@ Mesmo sem projetos públicos no momento, meu foco está totalmente voltado para 
     * Geometria Analítica e Álgebra Linear
 
 * 🚀 **Meu principal objetivo é:**
-    * Aprimorar continuamente meu conhecimento computacional para realizar um **mestrado na UFMG**.
+    * Aprimorar continuamente meu conhecimento computacional para realizar **mestrado na UFMG**.
 
 * 🤝 **Busco colaborar em:**
     * Projetos de pesquisa acadêmica
