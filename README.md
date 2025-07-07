@@ -23,7 +23,7 @@ Estudante de Ciência da Computação com dedicação à resolução de problema
 Meu foco atual está na consolidação de uma base teórica e acadêmica robusta como alicerce para meus objetivos futuros.
 
 1.) **Áreas de estudo em aprofundamento:**
-    - Estruturas de Dados Avançadas
+    - Estruturas de Dados
     - Cálculo Diferencial e Integral
     - Geometria Analítica e Álgebra Linear
 
