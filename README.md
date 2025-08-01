@@ -4,7 +4,7 @@
     <strong>Estudante de Ciência da Computação</strong>
   </p>
   <p>
-    Apaixonado por resolver problemas através de Algoritmos e Estruturas de Dados.
+    Entusiasta na resolução de problemas através de Algoritmos e Estruturas de Dados.
   </p>
 </div>
 
