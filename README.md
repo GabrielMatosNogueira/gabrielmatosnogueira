@@ -17,7 +17,7 @@
 </p>
 
 - Atualmente, estou expandindo minhas habilidades em **Algoritmos e Estrutura de Dados**, e aprofundando meus conhecimentos em **Java** e **Arquitetura de Computadores**.
-- Gosto de aprender constantemente: estou estudando **Alemão** e sempre explorando conteúdos de outros cursos de tecnologia para ampliar minha visão sobre a área.
+- Gosto de aprender constantemente: Sempre explorando conteúdos de outros cursos para ampliação das áreas de aplicabilidade da computação.
 - Fique à vontade para entrar em contato para falar sobre tecnologia, programação ou oportunidades de colaboração.
 - A melhor forma de me contatar é através do **LinkedIn** ou por **E-mail**.
 
