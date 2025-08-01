@@ -64,6 +64,14 @@
 
 ---
 
+### Idiomas
+
+- **Inglês:** Independente (Cambridge)
+- **Alemão:** Iniciante
+- **Português:** Nativo
+
+---
+
 ### Contato
 
 <div align="center">
