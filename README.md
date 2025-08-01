@@ -1,43 +1,57 @@
-## Gabriel Matos Nogueira
-Graduando em Ciência da Computação
+<h1 align="center">Gabriel Matos Nogueira</h1>
+<p align="center">
+  <strong>Estudante de Ciência da Computação</strong><br>
+  <em>Foco em Algoritmos, Estrutura de Dados e Solução de Problemas Complexos</em>
+</p>
 
-Estudante de Ciência da Computação com dedicação à resolução de problemas complexos, à pesquisa acadêmica e aprofundamento técnico na base teórica computacional. Minha abordagem de estudo é pautada pela persistência e pela busca de conhecimento aprofundado, com especial interesse nas áreas de Segurança da Informação, Lógica Computacional e Algoritmos e Estruturas de Dados.
-
----
-
-### Competências Técnicas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p align="center">
+  <a href="https://linkedin.com/in/GabrielMatosNogueira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:gabrielmatosnogueirasr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### Objetivos Acadêmicos e Profissionais
+### Sumário Profissional
 
-Meu foco atual está na consolidação de uma base teórica e acadêmica robusta como alicerce para meus objetivos futuros.
+Sou um estudante de Ciência da Computação com forte interesse na aplicação de Algoritmos e Estruturas de Dados para a resolução de problemas de alta complexidade. Meu objetivo é atuar no desenvolvimento de software robusto e eficiente. Busco ativamente por oportunidades de colaboração em projetos que me permitam aplicar e expandir meus conhecimentos técnicos.
 
-1.) **Áreas de estudo em aprofundamento:**
-    - Estruturas de Dados
-    - Cálculo Diferencial e Integral
-    - Geometria Analítica e Álgebra Linear
-
-2.) **Objetivo de carreira:** Obter o título de Mestre em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG), contribuindo para a pesquisa na área e construção de novas tecnólogias que possam auxiliar áreas como o mercado e a educação.
-
-3.) **Interesse em colaborações:**
-    - Projetos de iniciação científica e pesquisa acadêmica.
-    - Desenvolvimento de soluções computacionais com sólida fundamentação teórica.
+Atualmente, estou aprofundando meus estudos em **Java** e **Arquitetura de Computadores**, e iniciei o aprendizado da língua **alemã**.
 
 ---
 
-### Contato
+### Tecnologias e Competências
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario-aqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gabrielmatosnogueiracompsci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+    </a>
+    &nbsp;
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+    </a>
+    &nbsp;
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+    </a>
+    &nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+    </a>
+    &nbsp;
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="45" height="45"/>
+    </a>
+</p>
+
+---
+
+### Atividade no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB-AQUI]&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB-AQUI]&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens Mais Utilizadas"/>
 </p>
