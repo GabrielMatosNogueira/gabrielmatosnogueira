@@ -13,7 +13,7 @@
 ### Sobre Mim
 
 <p>
-  Sou um estudante de Ciência da Computação com grande interesse em entender como a tecnologia pode resolver problemas do mundo real. Meu foco principal está na base da computação, utilizando lógica e estruturas de dados para criar soluções eficientes e bem pensadas.
+  Estudante de Ciência da Computação com grande interesse em entender como a tecnologia pode resolver problemas do mundo real. Meu foco principal está na base da computação, utilizando lógica e estruturas de dados para criar soluções eficientes e bem pensadas.
 </p>
 
 - Atualmente, estou expandindo minhas habilidades em **Algoritmos e Estrutura de Dados**, e aprofundando meus conhecimentos em **Java** e **Arquitetura de Computadores**.
