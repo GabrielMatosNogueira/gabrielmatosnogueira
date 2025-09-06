@@ -62,7 +62,7 @@
 ### Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/GabrielMatosNogueira" target="_blank">
+  <a href="[https://linkedin.com/in/GabrielMatosNogueira](https://www.linkedin.com/in/gabriel-nogueira-145478323/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
