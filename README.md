@@ -76,6 +76,6 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatosNogueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatosNogueira&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens Mais Utilizadas"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielMatosNogueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatosNogueira&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens Mais Utilizadas"/>
 </div>
