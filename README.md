@@ -1,45 +1,33 @@
 <div align="center">
   <h1>Gabriel Matos Nogueira</h1>
-  <p>
-    <strong>Estudante de Ciência da Computação</strong>
-  </p>
+  <p><strong>Computer Science Student</strong></p>
 </div>
 
 ---
 
-### Habilidades e Tecnologias
+### Skills
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#--">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br>C
       </td>
       <td align="center" width="96">
-        <a href="#--">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
         <br>C++
       </td>
       <td align="center" width="96">
-        <a href="#--">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="96">
-        <a href="#--">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <a href="#--">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
-        </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
         <br>LaTeX
       </td>
     </tr>
@@ -48,14 +36,15 @@
 
 ---
 
-### Idiomas
+### Languages
 
-- **Inglês:** Independente (Cambridge)
-- **Português:** Nativo
+- **English:** Independent (Cambridge 🇬🇧)
+- **Spanish:** Basic understanding
+- **Portuguese:** Native
 
 ---
 
-### Contato
+### Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-nogueira-145478323/" target="_blank">
@@ -69,15 +58,15 @@
 
 ---
 
-### Estatísticas do GitHub
+### GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielMatosNogueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatosNogueira&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens Mais Utilizadas"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielMatosNogueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatosNogueira&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielMatosNogueira&style=flat-square&color=blue" alt="Contador de Visitas no Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=GabrielMatosNogueira&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
