@@ -3,9 +3,6 @@
   <p>
     <strong>Estudante de Ciência da Computação</strong>
   </p>
-  <p>
-    Entusiasta na resolução de problemas através de Algoritmos e Estruturas de Dados.
-  </p>
 </div>
 
 ---
