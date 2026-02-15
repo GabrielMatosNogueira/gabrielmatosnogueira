@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriel Matos Nogueira</h1>
-  <p><strong>Computer Science Student</strong></p>
+  <p><strong>Computer Engineering Student</strong></p>
 </div>
 
 ---
