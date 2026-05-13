@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Gabriel Matos Nogueira</h1>
+  <h1>Gabriel Nogueira</h1>
   <p><strong>Computer Engineering Student</strong></p>
 </div>
 
