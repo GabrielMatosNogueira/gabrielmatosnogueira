@@ -38,7 +38,7 @@
 
 ### Languages
 
-- **English:** Independent (Cambridge 🇬🇧)
+- **English:** Independent (Cambridge)
 - **Spanish:** Basic understanding
 - **Portuguese:** Native
 
